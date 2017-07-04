@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="400" viewBox="0 0 410 400">
+  <defs>
+    <style>
+    @font-face {
+	font-family: 'Roboto Mono';
+	src: url('hinted-subset-RobotoMono-Regular.eot');
+	src: local('Roboto Mono'), local('RobotoMono-Regular'),
+		url('hinted-subset-RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
+		url('hinted-subset-RobotoMono-Regular.woff2') format('woff2'),
+		url('hinted-subset-RobotoMono-Regular.woff') format('woff'),
+		url('hinted-subset-RobotoMono-Regular.ttf') format('truetype'),
+		url('hinted-subset-RobotoMono-Regular.svg#RobotoMono-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+      .cls-1 {
+        fill: #ccc;
+      }
+
+      .cls-2 {
+        fill: #ffd200;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 16px;
+        font-family:"Roboto Mono";
+        letter-spacing: 0.01em;
+      }
+
+      .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        fill: #666;
+      }
+    </style>
+  </defs>
+  <title>g5</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="_05" data-name="05">
+      <g>
+        <circle class="cls-1" cx="208" cy="64" r="64"/>
+        <circle class="cls-1" cx="344" cy="64" r="64"/>
+        <g>
+          <circle class="cls-2" cx="344" cy="200" r="64"/>
+          <text class="cls-3" transform="translate(281.11 204)">Производитель</text>
+        </g>
+        <g>
+          <line class="cls-4" x1="348" y1="119.57" x2="348" y2="144.43"/>
+          <circle cx="348" cy="119.76" r="3.76"/>
+          <circle cx="348" cy="144.24" r="3.76"/>
+        </g>
+        <g>
+          <path class="cls-4" d="M336,144.43V136a4,4,0,0,0-4-4H212a4,4,0,0,1-4-4v-8.43"/>
+          <circle cx="336" cy="144.24" r="3.76"/>
+          <circle cx="208" cy="119.76" r="3.76"/>
+        </g>
+        <text class="cls-5" transform="translate(169.31 68)">Оператор</text>
+        <text class="cls-5" transform="translate(281.11 68)">Администрация</text>
+        <rect class="cls-6" width="410" height="400"/>
+      </g>
+    </g>
+  </g>
+</svg>

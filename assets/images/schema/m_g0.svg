@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 288">
+  <defs>
+    <style>
+    @font-face {
+	font-family: 'Roboto Mono';
+	src: url('hinted-subset-RobotoMono-Regular.eot');
+	src: local('Roboto Mono'), local('RobotoMono-Regular'),
+		url('hinted-subset-RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
+		url('hinted-subset-RobotoMono-Regular.woff2') format('woff2'),
+		url('hinted-subset-RobotoMono-Regular.woff') format('woff'),
+		url('hinted-subset-RobotoMono-Regular.ttf') format('truetype'),
+		url('hinted-subset-RobotoMono-Regular.svg#RobotoMono-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+      .cls-1 {
+        fill: #ccc;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        font-size: 15px;
+        font-family:"Roboto Mono";
+      }
+
+      .cls-2, .cls-4 {
+        fill: #666;
+      }
+
+      .cls-2, .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-4 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-5 {
+        fill: #3fd89b;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>m_g0</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="_02" data-name="02">
+      <g>
+        <g>
+          <circle class="cls-1" cx="144" cy="44" r="44"/>
+          <text class="cls-2" transform="translate(107.57 48)">Оператор</text>
+        </g>
+        <g>
+          <circle class="cls-1" cx="44" cy="144" r="44"/>
+          <text class="cls-2" transform="translate(12.11 144)">Постав-<tspan x="18.16" y="16">щик</tspan></text>
+        </g>
+        <g>
+          <circle class="cls-1" cx="243.92" cy="143.92" r="44.08"/>
+          <text class="cls-2" transform="translate(207.73 144)">Произво-<tspan class="cls-3"><tspan x="9.08" y="16">дитель</tspan></tspan></text>
+        </g>
+        <g>
+          <circle class="cls-1" cx="44" cy="244" r="44"/>
+          <text class="cls-2" transform="translate(7.57 248)">Складмен</text>
+        </g>
+        <g>
+          <circle class="cls-1" cx="144" cy="244" r="44"/>
+          <text class="cls-4" transform="translate(112.11 248)">Кладмен</text>
+        </g>
+        <g>
+          <circle class="cls-5" cx="44" cy="44" r="44"/>
+          <text class="cls-6" transform="translate(21.19 48)">Дилер</text>
+        </g>
+        <rect class="cls-7" width="288" height="288"/>
+      </g>
+    </g>
+  </g>
+</svg>

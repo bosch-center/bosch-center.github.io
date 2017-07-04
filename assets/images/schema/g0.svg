@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="400" viewBox="0 0 410 400">
+  <defs>
+    <style>
+    @font-face {
+	font-family: 'Roboto Mono';
+	src: url('hinted-subset-RobotoMono-Regular.eot');
+	src: local('Roboto Mono'), local('RobotoMono-Regular'),
+		url('hinted-subset-RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
+		url('hinted-subset-RobotoMono-Regular.woff2') format('woff2'),
+		url('hinted-subset-RobotoMono-Regular.woff') format('woff'),
+		url('hinted-subset-RobotoMono-Regular.ttf') format('truetype'),
+		url('hinted-subset-RobotoMono-Regular.svg#RobotoMono-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+      .cls-1 {
+        fill: #ccc;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 16px;
+        font-family:"Roboto Mono";
+        letter-spacing: 0.01em;
+      }
+
+      .cls-2 {
+        fill: #666;
+      }
+
+      .cls-3 {
+        fill: #3fd89b;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>g0</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="_02" data-name="02">
+      <g>
+        <g>
+          <g>
+            <circle class="cls-1" cx="208" cy="64" r="64"/>
+            <text class="cls-2" transform="translate(169.31 68)">Оператор</text>
+          </g>
+          <g>
+            <circle class="cls-1" cx="72" cy="336" r="64"/>
+            <text class="cls-2" transform="translate(33.31 340)">Складмен</text>
+          </g>
+          <g>
+            <circle class="cls-1" cx="208" cy="336" r="64"/>
+            <text class="cls-2" transform="translate(174.15 340)">Кладмен</text>
+          </g>
+          <g>
+            <g>
+              <circle class="cls-3" cx="72" cy="64" r="64"/>
+              <text class="cls-4" transform="translate(47.84 68)">Дилер</text>
+            </g>
+            <g>
+              <circle class="cls-1" cx="72" cy="200" r="64"/>
+              <text class="cls-2" transform="translate(28.47 204)">Поставщик</text>
+            </g>
+            <g>
+              <circle class="cls-1" cx="344" cy="200" r="64"/>
+              <text class="cls-2" transform="translate(281.11 204)">Производитель</text>
+            </g>
+          </g>
+        </g>
+        <g>
+          <path class="cls-5" d="M83.57,120H120a11.13,11.13,0,0,1,6.83,2.83l10.34,10.34A11.13,11.13,0,0,1,140,140V331.73a4,4,0,0,0,4,4h8.43"/>
+          <circle cx="83.76" cy="120" r="3.76"/>
+          <circle cx="152.24" cy="335.73" r="3.76"/>
+        </g>
+        <g>
+          <path class="cls-5" d="M127.57,76H136a4,4,0,0,1,4,4v32a11.13,11.13,0,0,0,2.83,6.83l10.34,10.34A11.13,11.13,0,0,0,160,132H340a4,4,0,0,1,4,4v8.43"/>
+          <circle cx="127.76" cy="76" r="3.76"/>
+          <circle cx="344" cy="144.24" r="3.76"/>
+        </g>
+        <g>
+          <path class="cls-5" d="M60.43,120H24a11.13,11.13,0,0,0-6.83,2.83L6.83,133.17A11.13,11.13,0,0,0,4,140V331.73a4,4,0,0,0,4,4h8.43"/>
+          <circle cx="60.24" cy="120" r="3.76"/>
+          <circle cx="16.24" cy="335.73" r="3.76"/>
+        </g>
+        <g>
+          <line class="cls-5" x1="72" y1="119.57" x2="72" y2="144.43"/>
+          <circle cx="72" cy="119.76" r="3.76"/>
+          <circle cx="72" cy="144.24" r="3.76"/>
+        </g>
+        <g>
+          <line class="cls-5" x1="152.43" y1="64" x2="127.57" y2="64"/>
+          <circle cx="152.24" cy="64" r="3.76"/>
+          <circle cx="127.76" cy="64" r="3.76"/>
+        </g>
+        <rect class="cls-6" width="410" height="400"/>
+      </g>
+    </g>
+  </g>
+</svg>

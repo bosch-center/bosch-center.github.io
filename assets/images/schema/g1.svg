@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="400" viewBox="0 0 410 400">
+  <defs>
+    <style>
+    @font-face {
+	font-family: 'Roboto Mono';
+	src: url('hinted-subset-RobotoMono-Regular.eot');
+	src: local('Roboto Mono'), local('RobotoMono-Regular'),
+		url('hinted-subset-RobotoMono-Regular.eot?#iefix') format('embedded-opentype'),
+		url('hinted-subset-RobotoMono-Regular.woff2') format('woff2'),
+		url('hinted-subset-RobotoMono-Regular.woff') format('woff'),
+		url('hinted-subset-RobotoMono-Regular.ttf') format('truetype'),
+		url('hinted-subset-RobotoMono-Regular.svg#RobotoMono-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+      .cls-1 {
+        fill: #b9d335;
+      }
+
+      .cls-2, .cls-4 {
+        font-size: 16px;
+        font-family: "Roboto Mono";
+        letter-spacing: 0.01em;
+      }
+
+      .cls-3 {
+        fill: #ccc;
+      }
+
+      .cls-4 {
+        fill: #666;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>g1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="_03" data-name="03">
+      <g>
+        <g>
+          <circle class="cls-1" cx="208" cy="64" r="64"/>
+          <text class="cls-2" transform="translate(169.31 68)">Оператор</text>
+        </g>
+        <g>
+          <circle class="cls-3" cx="344" cy="336" r="64"/>
+          <text class="cls-4" transform="translate(295.63 340)">Покупатель</text>
+        </g>
+        <g>
+          <circle class="cls-3" cx="208" cy="200" r="64"/>
+          <text class="cls-4" transform="translate(179 204)">Курьер</text>
+        </g>
+        <g>
+          <circle class="cls-3" cx="72" cy="64" r="64"/>
+          <text class="cls-4" transform="translate(47.84 68)">Дилер</text>
+        </g>
+        <g>
+          <line class="cls-5" x1="208" y1="144.43" x2="208" y2="119.57"/>
+          <circle cx="208" cy="144.24" r="3.76"/>
+          <circle cx="208" cy="119.76" r="3.76"/>
+        </g>
+        <g>
+          <path class="cls-5" d="M259.57,80H272a4,4,0,0,1,4,4V316a4,4,0,0,0,4,4h12.43"/>
+          <circle cx="259.76" cy="80" r="3.76"/>
+          <circle cx="292.24" cy="320" r="3.76"/>
+        </g>
+        <g>
+          <line class="cls-5" x1="123.57" y1="80" x2="156.43" y2="80"/>
+          <circle cx="123.76" cy="80" r="3.76"/>
+          <circle cx="156.24" cy="80" r="3.76"/>
+        </g>
+        <rect class="cls-6" width="410" height="400"/>
+      </g>
+    </g>
+  </g>
+</svg>

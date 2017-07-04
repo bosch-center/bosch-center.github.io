@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" width="644" height="348" viewBox="0 0 644 348">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b9d335;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <title>g4</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <polygon class="cls-1" points="644 348 0 348 128.8 334.33 257.6 327.5 386.4 293.33 515.2 190.83 644 184 644 348"/>
+        <rect class="cls-2" width="644" height="348"/>
+      </g>
+    </g>
+  </g>
+</svg>
